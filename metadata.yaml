@@ -1,0 +1,35 @@
+_repo: Ebrietatis-Encomiumor-the-Praise-of-Drunkenness_29188
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Samber, Robert
+    gutenberg_agent_id: '33750'
+    url: http://www.gutenberg.org/2009/agents/33750
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sallengre, Albert-Henri de
+    alias: Oinophilus, Boniface
+    birthdate: 1694
+    deathdate: 1723
+    gutenberg_agent_id: '33749'
+    url: http://www.gutenberg.org/2009/agents/33749
+description: ''
+gutenberg_issued: '2009-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29188'
+  lccn: '37032079'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Drinking customs -- Early works to 1800'
+title: 'Ebrietatis Encomium
+
+  or, the Praise of Drunkenness'
+url: http://www.gutenberg.org/ebooks/29188
